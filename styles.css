@@ -1,0 +1,23 @@
+#calc{
+    width: 450;
+    height: 550;
+    background-color:#1a1a1a;
+    margin: auto;
+    color: white;
+    font-weight: 300;
+    font-size: large;
+
+}
+.button{
+    height: 82px;
+    width: 108px;
+    font-weight: 500;
+    font-size:x-large;
+}
+#result{
+    width: 450;
+    height: 120;
+    font-weight: 300;
+    font-size: large;
+   
+}
